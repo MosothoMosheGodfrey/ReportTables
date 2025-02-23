@@ -1,183 +1,365 @@
-InformationDate,keyFindings
-2023-01-31,"
-In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 206.0 cents, down to R 21.4 per litre.
+InformationDate,Location,keyFindings
+2025-02-28,COASTAL,"Comprehensively, the fuel prices for the month of February increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.34, up to R 21.62 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 6,9% in January, down from 7,2% in December 2022. The consumer price index decreased by 0,1% month-on-month in January.
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • No CPI data available
+  • No USD to ZAR exchange rate data available.
+  • No crude oil price data available.
 "
-2023-02-28,"
-Comprehensively, the fuel prices for the month of February increased in diesel, Petrol, Paraffin, while diesel, LPGAS prices decreased as per the table above. The Petrol price is set to increased by 28.0 cents, up to R 21.68 per litre.
+2025-02-28,GAUTENG,"Comprehensively, the fuel prices for the month of February increased in Petrol, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 82.00 cents, up to R 22.41 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 7,0% in February, up from 6,9% in January. The consumer price index increased by 0,7% month-on-month in February.
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • No CPI data available
+  • No USD to ZAR exchange rate data available.
+  • No crude oil price data available.
 "
-2023-03-31,"
-In summary, the fuel costs for the month of March increased in LPGAS, Petrol, Paraffin, diesel as per the table above. The Petrol price is set to increased by 127.0 cents, up to R 22.95 per litre.
+2025-01-31,GAUTENG,"In general, the fuel rates for the month of January increased in Petrol, LPGAS, diesel, while Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 12.00 cents, up to R 21.59 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 7,1% in March, up from 7,0% in February. The consumer price index increased by 1,0% month-on-month in March.
+The unit over/under recovery is influenced by various economic factors, including:
+  • No CPI data available
+  • The Rand appreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 19, compared to 17 last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price increased by 1.9% during the period under review compared to December 2024. The average oil price for January 2025 was $ 75.19 compared to $ 69.66 in the previous month. As a net importer of oil, the December 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-04-30,"
-Taking everything into account, the fuel prices for the month of April increased in Petrol, while diesel, LPGAS, Paraffin prices decreased as per the table above. The Petrol price is set to increased by 2.0 cents, up to R 22.97 per litre.
+2025-01-31,COASTAL,"In general, the fuel rates for the month of January increased in LPGAS, diesel, while Petrol, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 40.00 cents, down to R 20.28 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 6,8% in April, down from 7,1% in March. The consumer price index increased by 0,4% month-on-month in April.
+The unit over/under recovery is influenced by various economic factors, including:
+  • No CPI data available
+  • The Rand appreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 19, compared to 17 last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price increased by 1.9% during the period under review compared to December 2024. The average oil price for January 2025 was $ 75.19 compared to $ 69.66 in the previous month. As a net importer of oil, the December 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-05-31,"
-In essence, the fuel rates for the month of May increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to increased by 37.0 cents, up to R 23.34 per litre.
+2024-12-31,GAUTENG,"After careful analysis, the fuel prices for the month of December increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 17.00 cents, up to R 21.47 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 6,3% in May, down from 6,8% in April. The consumer price index increased by 0,2% month-on-month in May.
+The unit over/under recovery is affected by economic factors, including:
+  • Inflation in consumer prices for the year came in at flation was 3.0% in December, up from 2.9% in November. The CPI increased by 0.1% month-on-month in December.
+  • The Rand appreciated against the US Dollar during the review period, with an average exchange rate of 18 in December, compared to 17 in the previous month and 17 two months ago. This influenced basic fuel price calculations.
+  • Broadly, crude oil price decreased by 3.69% during the period under review compared to November 2024. The average oil price for December 2024 was $ 69.66 compared to $ 69.43 in the previous month. As a net importer of oil, the November 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-06-30,"
-Overall, the fuel costs for the month of June increased in LPGAS, while diesel, Petrol, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 71.0 cents, down to R 22.63 per litre.
+2024-12-31,COASTAL,"After careful analysis, the fuel prices for the month of December increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 17.00 cents, up to R 20.68 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,4% in June, down from 6,3% in May. The CPI increased by 0,2% month-on-month in June.
+The unit over/under recovery is affected by economic factors, including:
+  • Inflation in consumer prices for the year came in at flation was 3.0% in December, up from 2.9% in November. The CPI increased by 0.1% month-on-month in December.
+  • The Rand appreciated against the US Dollar during the review period, with an average exchange rate of 18 in December, compared to 17 in the previous month and 17 two months ago. This influenced basic fuel price calculations.
+  • Broadly, crude oil price decreased by 3.69% during the period under review compared to November 2024. The average oil price for December 2024 was $ 69.66 compared to $ 69.43 in the previous month. As a net importer of oil, the November 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-07-31,"
-In a nutshell, the fuel costs for the month of July increased in diesel, while Petrol, LPGAS, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 17.0 cents, down to R 22.46 per litre.
+2024-11-30,GAUTENG,"Reflecting on the data, the fuel rates for the month of November increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 25.00 cents, up to R 21.3 per litre.
 
 The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 4,7% in July, down from 5,4% in June. The CPI increased by 0,9% month-on-month in July.
+  • The annual consumer inflation rate registered at flation was 2.9% in November, up from 2.8% in October. The CPI remained unchanged month-on-month in November
+  • During the period under review, the Rand appreciated against the US Dollar, with the exchange rate averaging 18 in November, compared to 17 in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Generally speaking, crude oil price decreased by 10.29% during the period under review compared to October 2024. The average oil price for November 2024 was $ 69.43 compared to $ 71.8 in the previous month. As a net importer of oil, the October 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-08-31,"
-Considering all factors, the fuel rates for the month of August increased in diesel, Petrol, Paraffin, while LPGAS prices decreased as per the table above. The Petrol price is set to increased by 37.0 cents, up to R 22.83 per litre.
+2024-11-30,COASTAL,"Reflecting on the data, the fuel rates for the month of November increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 25.00 cents, up to R 20.51 per litre.
 
 The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 4,8% in August, up from 4,7% in July. The CPI increased by 0,3% month-on-month in August.
+  • The annual consumer inflation rate registered at flation was 2.9% in November, up from 2.8% in October. The CPI remained unchanged month-on-month in November
+  • During the period under review, the Rand appreciated against the US Dollar, with the exchange rate averaging 18 in November, compared to 17 in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Generally speaking, crude oil price decreased by 10.29% during the period under review compared to October 2024. The average oil price for November 2024 was $ 69.43 compared to $ 71.8 in the previous month. As a net importer of oil, the October 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-09-30,"
-In review, the fuel costs for the month of September increased in diesel, Petrol, Paraffin, LPGAS as per the table above. The Petrol price is set to increased by 171.0 cents, up to R 24.54 per litre.
+2024-10-31,COASTAL,"Upon examination, the fuel prices for the month of October increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.14, down to R 20.26 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,4% in September, up from 4,8% in August. The CPI increased by 0,6% month-on-month in September.
+Economic pressures that influence the unit over/under recovery include:
+  • Annual consumer price inflation was flation was 2.8% in October, down from 3.8% in September. The CPI decreased by 0.1% month-on-month in October.
+  • The Rand depreciated against the US Dollar over the review period, with October’s average at 18, with 18 recorded in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Under consideration, the average crude oil price decreased by 16.18% during the period under review compared to September 2024. The average oil price for October 2024 was $ 71.8 compared to $ 69.48 in the previous month. As a net importer of oil, the September 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-10-31,"
-Upon examination, the fuel prices for the month of October increased in diesel, Petrol, Paraffin, LPGAS as per the table above. The Petrol price is set to increased by 114.0 cents, up to R 25.68 per litre.
+2024-10-31,GAUTENG,"Upon examination, the fuel prices for the month of October increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.14, down to R 21.05 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,9% in October, up from 5,4% in September. The CPI increased by 0,9% month-on-month in October.
+Economic pressures that influence the unit over/under recovery include:
+  • Annual consumer price inflation was flation was 2.8% in October, down from 3.8% in September. The CPI decreased by 0.1% month-on-month in October.
+  • The Rand depreciated against the US Dollar over the review period, with October’s average at 18, with 18 recorded in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Under consideration, the average crude oil price decreased by 16.18% during the period under review compared to September 2024. The average oil price for October 2024 was $ 71.8 compared to $ 69.48 in the previous month. As a net importer of oil, the September 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-11-30,"
-Reflecting on the data, the fuel rates for the month of November increased in LPGAS, while diesel, Petrol, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 178.0 cents, down to R 23.9 per litre.
+2024-09-30,COASTAL,"In review, the fuel costs for the month of September decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 92.00 cents, down to R 21.4 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,5% in November, down from 5,9% in October. The CPI decreased by 0,1% month-on-month in November.
+The economic landscape that shapes unit over/under recovery consists of:
+  • Consumer prices saw an annual inflation rate of flation was 3.8% in September, down from 4.4% in August. The CPI increased by 0.1% month-on-month in September.
+  • Against the US Dollar, the Rand depreciated during the review period, averaging 18 in September, with 18 recorded last month and 17 two months ago. This played a role in determining basic fuel prices.
+  • On a broad scale, crude oil price decreased by 22.05% during the period under review compared to August 2024. The average oil price for September 2024 was $ 69.48 compared to $ 75.45 in the previous month. As a net importer of oil, the August 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2023-12-31,"
-After careful analysis, the fuel prices for the month of December increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 65.0 cents, down to R 23.25 per litre.
+2024-09-30,GAUTENG,"In review, the fuel costs for the month of September decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 92.00 cents, down to R 22.19 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,1% in December, down from 5,5% in November. The CPI was unchanged month-on-month in December.
+The economic landscape that shapes unit over/under recovery consists of:
+  • Consumer prices saw an annual inflation rate of flation was 3.8% in September, down from 4.4% in August. The CPI increased by 0.1% month-on-month in September.
+  • Against the US Dollar, the Rand depreciated during the review period, averaging 18 in September, with 18 recorded last month and 17 two months ago. This played a role in determining basic fuel prices.
+  • On a broad scale, crude oil price decreased by 22.05% during the period under review compared to August 2024. The average oil price for September 2024 was $ 69.48 compared to $ 75.45 in the previous month. As a net importer of oil, the August 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-01-31,"
-In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 76.0 cents, down to R 22.49 per litre.
+2024-08-31,GAUTENG,"Considering all factors, the fuel rates for the month of August decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 15.00 cents, down to R 23.11 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,3% in January, up from 5,1% in December 2023. The CPI increased by 0,1% month-on-month in January.
+Economic elements that contribute to the unit over/under recovery include:
+  • The yearly inflation in consumer prices was flation was 4.4% in August, down from 4.6% in July. The CPI increased by 0.1% month-on-month in August.
+  • A decline in the Rand’s value against the US Dollar was observed over the review period, with an average exchange rate of 18 in August, compared to 17 in the previous month and 17 two months ago. This had an impact on basic fuel price calculations.
+  • On average, crude oil price decreased by 7.29% during the period under review compared to July 2024. The average oil price for August 2024 was $ 75.45 compared to $ 80.54 in the previous month. As a net importer of oil, the July 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-02-29,"
-Comprehensively, the fuel prices for the month of February increased in Petrol, diesel, LPGAS, Paraffin as per the table above. The Petrol price is set to increased by 75.0 cents, up to R 23.24 per litre.
+2024-08-31,COASTAL,"Considering all factors, the fuel rates for the month of August decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 15.00 cents, down to R 22.32 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,6% in February, up from 5,3% in January. The CPI increased by 1,0% month-on-month in February.
+Economic elements that contribute to the unit over/under recovery include:
+  • The yearly inflation in consumer prices was flation was 4.4% in August, down from 4.6% in July. The CPI increased by 0.1% month-on-month in August.
+  • A decline in the Rand’s value against the US Dollar was observed over the review period, with an average exchange rate of 18 in August, compared to 17 in the previous month and 17 two months ago. This had an impact on basic fuel price calculations.
+  • On average, crude oil price decreased by 7.29% during the period under review compared to July 2024. The average oil price for August 2024 was $ 75.45 compared to $ 80.54 in the previous month. As a net importer of oil, the July 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-03-31,"
-In summary, the fuel costs for the month of March increased in Petrol, diesel, LPGAS, Paraffin as per the table above. The Petrol price is set to increased by 121.0 cents, up to R 24.45 per litre.
+2024-07-31,GAUTENG,"In a nutshell, the fuel costs for the month of July decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 99.00 cents, down to R 23.26 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,3% in March, down from 5,6% in February. The consumer price index increased by 0,8% month-on-month in March.
+The economic dynamics influencing unit over/under recovery include:
+  • The rate of consumer price inflation was flation was 4.6% in July, down from 5.1% in June. The CPI increased by 0.4% month-on-month in July.
+  • Exchange rate trends show that the Rand depreciated against the US Dollar over the review period, with July’s average at 18, compared to 17 the prior month and 16 two months before. This influenced the contribution to basic fuel prices.
+  • The median crude oil price increased by 6.4% during the period under review compared to June 2024. The average oil price for July 2024 was $ 80.54 compared to $ 78.92 in the previous month. As a net importer of oil, the June 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-04-30,"
-Taking everything into account, the fuel prices for the month of April increased in Petrol, diesel, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to increased by 67.0 cents, up to R 25.12 per litre.
+2024-07-31,COASTAL,"In a nutshell, the fuel costs for the month of July decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 99.00 cents, down to R 22.47 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,2% in April, down from 5,3% in March. The CPI increased by 0,3% month-on-month in April.
+The economic dynamics influencing unit over/under recovery include:
+  • The rate of consumer price inflation was flation was 4.6% in July, down from 5.1% in June. The CPI increased by 0.4% month-on-month in July.
+  • Exchange rate trends show that the Rand depreciated against the US Dollar over the review period, with July’s average at 18, compared to 17 the prior month and 16 two months before. This influenced the contribution to basic fuel prices.
+  • The median crude oil price increased by 6.4% during the period under review compared to June 2024. The average oil price for July 2024 was $ 80.54 compared to $ 78.92 in the previous month. As a net importer of oil, the June 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-05-31,"
-In essence, the fuel rates for the month of May increased in Petrol, while diesel, LPGAS, Paraffin prices decreased as per the table above. The Petrol price is set to increased by 37.0 cents, up to R 25.49 per litre.
+2024-06-30,GAUTENG,"Overall, the fuel costs for the month of June decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.24, down to R 24.25 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,2% in May, unchanged from April. The CPI increased by 0,2% month-on-month in May.
+The unit over/under recovery is impacted by a range of economic influences, such as:
+  • Consumer inflation for the year was measured at flation was 5.1% in June, down from 5.2% in May. The CPI increased by 0.1% month-on-month in June.
+  • Measured against the previous period, the exchange rate indicates that the Rand depreciated against the US Dollar, averaging 18 in June, 16 last month, and 16 two months prior. This contributed to fluctuations in basic fuel prices.
+  • In general, crude oil price increased by 12.27% during the period under review compared to May 2024. The average oil price for June 2024 was $ 78.92 compared to $ 78.7 in the previous month. As a net importer of oil, the May 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-06-30,"
-Overall, the fuel costs for the month of June decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol price is set to decreased by 124.0 cents, down to R 24.25 per litre.
+2024-06-30,COASTAL,"Overall, the fuel costs for the month of June decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.24, down to R 23.46 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 5,1% in June, down from 5,2% in May. The CPI increased by 0,1% month-on-month in June.
+The unit over/under recovery is impacted by a range of economic influences, such as:
+  • Consumer inflation for the year was measured at flation was 5.1% in June, down from 5.2% in May. The CPI increased by 0.1% month-on-month in June.
+  • Measured against the previous period, the exchange rate indicates that the Rand depreciated against the US Dollar, averaging 18 in June, 16 last month, and 16 two months prior. This contributed to fluctuations in basic fuel prices.
+  • In general, crude oil price increased by 12.27% during the period under review compared to May 2024. The average oil price for June 2024 was $ 78.92 compared to $ 78.7 in the previous month. As a net importer of oil, the May 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-07-31,"
-In a nutshell, the fuel costs for the month of July decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol price is set to decreased by 99.0 cents, down to R 23.26 per litre.
+2024-05-31,COASTAL,"In essence, the fuel rates for the month of May increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 24.7 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 4,6% in July, down from 5,1% in June. The CPI increased by 0,4% month-on-month in July.
+The fluctuations in unit over/under recovery are caused by economic factors, including:
+  • The consumer price inflation recorded was flation was 5.2% in May, unchanged from April. The CPI increased by 0,2% month-on-month . The CPI increased by 0,2% month-on-month in May
+  • Compared to the previous period, the Rand depreciated against the US Dollar during the review period, with an average exchange rate of 18 in May, 16 last month, and 15 two months prior. This influenced basic fuel price calculations.
+  • The standard crude oil price increased by 10.0% during the period under review compared to April 2024. The average oil price for May 2024 was $ 78.7 compared to $ 84.45 in the previous month. As a net importer of oil, the April 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-08-31,"
-Considering all factors, the fuel rates for the month of August decreased in Petrol, diesel, Paraffin, LPGAS as per the table above. The Petrol price is set to decreased by 15.0 cents, down to R 23.11 per litre.
+2024-05-31,GAUTENG,"In essence, the fuel rates for the month of May increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 25.49 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 4,4% in August, down from 4,6% in July. The CPI increased by 0,1% month-on-month in August.
+The fluctuations in unit over/under recovery are caused by economic factors, including:
+  • The consumer price inflation recorded was flation was 5.2% in May, unchanged from April. The CPI increased by 0,2% month-on-month . The CPI increased by 0,2% month-on-month in May
+  • Compared to the previous period, the Rand depreciated against the US Dollar during the review period, with an average exchange rate of 18 in May, 16 last month, and 15 two months prior. This influenced basic fuel price calculations.
+  • The standard crude oil price increased by 10.0% during the period under review compared to April 2024. The average oil price for May 2024 was $ 78.7 compared to $ 84.45 in the previous month. As a net importer of oil, the April 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-09-30,"
-In review, the fuel costs for the month of September decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol price is set to decreased by 92.0 cents, down to R 22.19 per litre.
+2024-04-30,GAUTENG,"Taking everything into account, the fuel prices for the month of April increased in Petrol, diesel, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 67.00 cents, up to R 25.12 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 3,8% in September, down from 4,4% in August. The CPI increased by 0,1% month-on-month in September.
+Various economic components influence the unit over/under recovery, including:
+  • Over the year, consumer price inflation reached flation was 5.2% in April, down from 5.3% in March. The CPI increased by 0.3% month-on-month in April.
+  • On average, the Rand depreciated against the US Dollar during the review period compared to the prior period. The exchange rate for April stood at 19, with 15 recorded last month and 15 two months ago, contributing to basic fuel price adjustments.
+  • The overall crude oil price increased by 6.52% during the period under review compared to March 2024. The average oil price for April 2024 was $ 84.45 compared to $ 80.63 in the previous month. As a net importer of oil, the March 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-10-31,"
-Upon examination, the fuel prices for the month of October increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol price is set to decreased by 114.0 cents, down to R 21.05 per litre.
+2024-04-30,COASTAL,"Taking everything into account, the fuel prices for the month of April increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 60.00 cents, up to R 24.33 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 2,8% in October, down from 3,8% in September. The CPI decreased by 0,1% month-on-month in October.
+Various economic components influence the unit over/under recovery, including:
+  • Over the year, consumer price inflation reached flation was 5.2% in April, down from 5.3% in March. The CPI increased by 0.3% month-on-month in April.
+  • On average, the Rand depreciated against the US Dollar during the review period compared to the prior period. The exchange rate for April stood at 19, with 15 recorded last month and 15 two months ago, contributing to basic fuel price adjustments.
+  • The overall crude oil price increased by 6.52% during the period under review compared to March 2024. The average oil price for April 2024 was $ 84.45 compared to $ 80.63 in the previous month. As a net importer of oil, the March 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-11-30,"
-Reflecting on the data, the fuel rates for the month of November increased in Petrol, diesel, Paraffin, LPGAS as per the table above. The Petrol price is set to increased by 25.0 cents, up to R 21.3 per litre.
+2024-03-31,GAUTENG,"In summary, the fuel costs for the month of March increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.21, up to R 24.45 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 2,9% in November, up from 2,8% in October. The CPI remained unchanged month-on-month in November.
+The extent of unit over/under recovery is driven by economic factors such as:
+  • The inflation rate for consumers was flation was 5.3% in March, down from 5.6% in February. The consumer price index increased by 0.8% month-on-month in March.
+  • During the period under review, the Rand depreciated against the US Dollar, averaging 19 in March, compared to 15 in the previous month and 17 two months ago. This played a role in basic fuel price determination.
+  • Typically, crude oil price increased by 9.83% during the period under review compared to February 2024. The average oil price for March 2024 was $ 80.63 compared to $ 76.59 in the previous month. As a net importer of oil, the February 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2024-12-31,"
-After careful analysis, the fuel prices for the month of December increased in LPGAS, Petrol, Paraffin, diesel as per the table above. The Petrol price is set to increased by 17.0 cents, up to R 21.47 per litre.
+2024-03-31,COASTAL,"In summary, the fuel costs for the month of March increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.21, up to R 23.73 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• Annual consumer price inflation was 3,0% in December, up from 2,9% in November. The CPI increased by 0,1% month-on-month in December.
+The extent of unit over/under recovery is driven by economic factors such as:
+  • The inflation rate for consumers was flation was 5.3% in March, down from 5.6% in February. The consumer price index increased by 0.8% month-on-month in March.
+  • During the period under review, the Rand depreciated against the US Dollar, averaging 19 in March, compared to 15 in the previous month and 17 two months ago. This played a role in basic fuel price determination.
+  • Typically, crude oil price increased by 9.83% during the period under review compared to February 2024. The average oil price for March 2024 was $ 80.63 compared to $ 76.59 in the previous month. As a net importer of oil, the February 2024 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2025-01-31,"
-In general, the fuel rates for the month of January increased in Petrol, diesel, LPGAS, while Paraffin prices decreased as per the table above. The Petrol price is set to increased by 12.0 cents, up to R 21.59 per litre.
+2024-02-29,GAUTENG,"Comprehensively, the fuel prices for the month of February increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 75.00 cents, up to R 23.24 per litre.
 
-The economic factors affecting the unit over/under recovery include:
-
-• No CPI data available
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • Consumer price inflation on an annual basis was flation was 5.6% in February, up from 5.3% in January. The CPI increased by 1.0% month-on-month in February.
+  • Over the review period, the Rand appreciated against the US Dollar on average when compared to the prior period. The exchange rate for February stood at 19, with 15 recorded in the previous month and 17 two months earlier, influencing basic fuel prices.
+  • Crude oil price, on average decreased by 0.18% during the period under review compared to January 2024. The average oil price for February 2024 was $ 76.59 compared to $ 73.79 in the previous month. As a net importer of oil, the January 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
-2025-02-28,"
-Comprehensively, the fuel prices for the month of February increased in diesel, Petrol, Paraffin as per the table above. The Petrol price is set to increased by 82.0 cents, up to R 22.41 per litre.
+2024-02-29,COASTAL,"Comprehensively, the fuel prices for the month of February increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by 75.00 cents, up to R 22.52 per litre.
+
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • Consumer price inflation on an annual basis was flation was 5.6% in February, up from 5.3% in January. The CPI increased by 1.0% month-on-month in February.
+  • Over the review period, the Rand appreciated against the US Dollar on average when compared to the prior period. The exchange rate for February stood at 19, with 15 recorded in the previous month and 17 two months earlier, influencing basic fuel prices.
+  • Crude oil price, on average decreased by 0.18% during the period under review compared to January 2024. The average oil price for February 2024 was $ 76.59 compared to $ 73.79 in the previous month. As a net importer of oil, the January 2024 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2024-01-31,GAUTENG,"In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 76.00 cents, down to R 22.49 per litre.
+
+The unit over/under recovery is influenced by various economic factors, including:
+  • The yearly consumer price inflation stood at flation was 5.3% in January, up from 5.1% in December 2023. The CPI increased by 0.1% month-on-month in January.
+  • The Rand appreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 19, compared to 17 last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price decreased by 5.82% during the period under review compared to December 2023. The average oil price for January 2024 was $ 73.79 compared to $ 72.32 in the previous month. As a net importer of oil, the December 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2024-01-31,COASTAL,"In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 76.00 cents, down to R 21.77 per litre.
+
+The unit over/under recovery is influenced by various economic factors, including:
+  • The yearly consumer price inflation stood at flation was 5.3% in January, up from 5.1% in December 2023. The CPI increased by 0.1% month-on-month in January.
+  • The Rand appreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 19, compared to 17 last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price decreased by 5.82% during the period under review compared to December 2023. The average oil price for January 2024 was $ 73.79 compared to $ 72.32 in the previous month. As a net importer of oil, the December 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-12-31,COASTAL,"After careful analysis, the fuel prices for the month of December increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 65.00 cents, down to R 22.53 per litre.
+
+The unit over/under recovery is affected by economic factors, including:
+  • Inflation in consumer prices for the year came in at flation was 5.1% in December, down from 5.5% in November. The CPI was unchanged month-on-month in December
+  • The Rand appreciated against the US Dollar during the review period, with an average exchange rate of 19 in December, compared to 17 in the previous month and 17 two months ago. This influenced basic fuel price calculations.
+  • Broadly, crude oil price decreased by 5.62% during the period under review compared to November 2023. The average oil price for December 2023 was $ 72.32 compared to $ 77.4 in the previous month. As a net importer of oil, the November 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-12-31,GAUTENG,"After careful analysis, the fuel prices for the month of December increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 65.00 cents, down to R 23.25 per litre.
+
+The unit over/under recovery is affected by economic factors, including:
+  • Inflation in consumer prices for the year came in at flation was 5.1% in December, down from 5.5% in November. The CPI was unchanged month-on-month in December
+  • The Rand appreciated against the US Dollar during the review period, with an average exchange rate of 19 in December, compared to 17 in the previous month and 17 two months ago. This influenced basic fuel price calculations.
+  • Broadly, crude oil price decreased by 5.62% during the period under review compared to November 2023. The average oil price for December 2023 was $ 72.32 compared to $ 77.4 in the previous month. As a net importer of oil, the November 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-11-30,GAUTENG,"Reflecting on the data, the fuel rates for the month of November increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.78, down to R 23.9 per litre.
 
 The economic factors affecting the unit over/under recovery include:
+  • The annual consumer inflation rate registered at flation was 5.5% in November, down from 5.9% in October. The CPI decreased by 0.1% month-on-month in November.
+  • During the period under review, the Rand depreciated against the US Dollar, with the exchange rate averaging 19 in November, compared to 17 in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Generally speaking, crude oil price decreased by 7.93% during the period under review compared to October 2023. The average oil price for November 2023 was $ 77.4 compared to $ 85.66 in the previous month. As a net importer of oil, the October 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-11-30,COASTAL,"Reflecting on the data, the fuel rates for the month of November increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 1.78, down to R 23.18 per litre.
 
-• No CPI data available
+The economic factors affecting the unit over/under recovery include:
+  • The annual consumer inflation rate registered at flation was 5.5% in November, down from 5.9% in October. The CPI decreased by 0.1% month-on-month in November.
+  • During the period under review, the Rand depreciated against the US Dollar, with the exchange rate averaging 19 in November, compared to 17 in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Generally speaking, crude oil price decreased by 7.93% during the period under review compared to October 2023. The average oil price for November 2023 was $ 77.4 compared to $ 85.66 in the previous month. As a net importer of oil, the October 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-10-31,GAUTENG,"Upon examination, the fuel prices for the month of October increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.14, up to R 25.68 per litre.
+
+Economic pressures that influence the unit over/under recovery include:
+  • Annual consumer price inflation was flation was 5.9% in October, up from 5.4% in September. The CPI increased by 0.9% month-on-month in October.
+  • The Rand appreciated against the US Dollar over the review period, with October’s average at 19, with 18 recorded in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Under consideration, the average crude oil price decreased by 1.28% during the period under review compared to September 2023. The average oil price for October 2023 was $ 85.66 compared to $ 89.13 in the previous month. As a net importer of oil, the September 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-10-31,COASTAL,"Upon examination, the fuel prices for the month of October increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.14, up to R 24.96 per litre.
+
+Economic pressures that influence the unit over/under recovery include:
+  • Annual consumer price inflation was flation was 5.9% in October, up from 5.4% in September. The CPI increased by 0.9% month-on-month in October.
+  • The Rand appreciated against the US Dollar over the review period, with October’s average at 19, with 18 recorded in the previous month and 18 two months ago. This contributed to changes in basic fuel prices.
+  • Under consideration, the average crude oil price decreased by 1.28% during the period under review compared to September 2023. The average oil price for October 2023 was $ 85.66 compared to $ 89.13 in the previous month. As a net importer of oil, the September 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-09-30,GAUTENG,"In review, the fuel costs for the month of September increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.71, up to R 24.54 per litre.
+
+The economic landscape that shapes unit over/under recovery consists of:
+  • Consumer prices saw an annual inflation rate of flation was 5.4% in September, up from 4.8% in August. The CPI increased by 0.6% month-on-month in September.
+  • Against the US Dollar, the Rand appreciated during the review period, averaging 19 in September, with 18 recorded last month and 17 two months ago. This played a role in determining basic fuel prices.
+  • On a broad scale, crude oil price increased by 6.05% during the period under review compared to August 2023. The average oil price for September 2023 was $ 89.13 compared to $ 81.38 in the previous month. As a net importer of oil, the August 2023 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-09-30,COASTAL,"In review, the fuel costs for the month of September increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.71, up to R 23.82 per litre.
+
+The economic landscape that shapes unit over/under recovery consists of:
+  • Consumer prices saw an annual inflation rate of flation was 5.4% in September, up from 4.8% in August. The CPI increased by 0.6% month-on-month in September.
+  • Against the US Dollar, the Rand appreciated during the review period, averaging 19 in September, with 18 recorded last month and 17 two months ago. This played a role in determining basic fuel prices.
+  • On a broad scale, crude oil price increased by 6.05% during the period under review compared to August 2023. The average oil price for September 2023 was $ 89.13 compared to $ 81.38 in the previous month. As a net importer of oil, the August 2023 increased in crude oil prices has led to a higher demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-08-31,COASTAL,"Considering all factors, the fuel rates for the month of August increased in Petrol, diesel, Paraffin, while LPGAS prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 22.11 per litre.
+
+Economic elements that contribute to the unit over/under recovery include:
+  • The yearly inflation in consumer prices was flation was 4.8% in August, up from 4.7% in July. The CPI increased by 0.3% month-on-month in August.
+  • A decline in the Rand’s value against the US Dollar was observed over the review period, with an average exchange rate of 19 in August, compared to 17 in the previous month and 17 two months ago. This had an impact on basic fuel price calculations.
+  • On average, crude oil price decreased by 11.06% during the period under review compared to July 2023. The average oil price for August 2023 was $ 81.38 compared to $ 75.69 in the previous month. As a net importer of oil, the July 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-08-31,GAUTENG,"Considering all factors, the fuel rates for the month of August increased in Petrol, diesel, Paraffin, while LPGAS prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 22.83 per litre.
+
+Economic elements that contribute to the unit over/under recovery include:
+  • The yearly inflation in consumer prices was flation was 4.8% in August, up from 4.7% in July. The CPI increased by 0.3% month-on-month in August.
+  • A decline in the Rand’s value against the US Dollar was observed over the review period, with an average exchange rate of 19 in August, compared to 17 in the previous month and 17 two months ago. This had an impact on basic fuel price calculations.
+  • On average, crude oil price decreased by 11.06% during the period under review compared to July 2023. The average oil price for August 2023 was $ 81.38 compared to $ 75.69 in the previous month. As a net importer of oil, the July 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-07-31,GAUTENG,"In a nutshell, the fuel costs for the month of July increased in diesel, while Petrol, LPGAS, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 17.00 cents, down to R 22.46 per litre.
+
+The economic dynamics influencing unit over/under recovery include:
+  • The rate of consumer price inflation was flation was 4.7% in July, down from 5.4% in June. The CPI increased by 0.9% month-on-month in July.
+  • Exchange rate trends show that the Rand depreciated against the US Dollar over the review period, with July’s average at 18, compared to 17 the prior month and 16 two months before. This influenced the contribution to basic fuel prices.
+  • The median crude oil price decreased by 24.12% during the period under review compared to June 2023. The average oil price for July 2023 was $ 75.69 compared to $ 70.3 in the previous month. As a net importer of oil, the June 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-07-31,COASTAL,"In a nutshell, the fuel costs for the month of July increased in diesel, while Petrol, LPGAS, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 17.00 cents, down to R 21.74 per litre.
+
+The economic dynamics influencing unit over/under recovery include:
+  • The rate of consumer price inflation was flation was 4.7% in July, down from 5.4% in June. The CPI increased by 0.9% month-on-month in July.
+  • Exchange rate trends show that the Rand depreciated against the US Dollar over the review period, with July’s average at 18, compared to 17 the prior month and 16 two months before. This influenced the contribution to basic fuel prices.
+  • The median crude oil price decreased by 24.12% during the period under review compared to June 2023. The average oil price for July 2023 was $ 75.69 compared to $ 70.3 in the previous month. As a net importer of oil, the June 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-06-30,COASTAL,"Overall, the fuel costs for the month of June increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 71.00 cents, down to R 21.91 per litre.
+
+The unit over/under recovery is impacted by a range of economic influences, such as:
+  • Consumer inflation for the year was measured at flation was 5.4% in June, down from 6.3% in May. The CPI increased by 0.2% month-on-month in June.
+  • Measured against the previous period, the exchange rate indicates that the Rand appreciated against the US Dollar, averaging 19 in June, 16 last month, and 16 two months prior. This contributed to fluctuations in basic fuel prices.
+  • In general, crude oil price decreased by 38.47% during the period under review compared to May 2023. The average oil price for June 2023 was $ 70.3 compared to $ 71.55 in the previous month. As a net importer of oil, the May 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-06-30,GAUTENG,"Overall, the fuel costs for the month of June increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by 71.00 cents, down to R 22.63 per litre.
+
+The unit over/under recovery is impacted by a range of economic influences, such as:
+  • Consumer inflation for the year was measured at flation was 5.4% in June, down from 6.3% in May. The CPI increased by 0.2% month-on-month in June.
+  • Measured against the previous period, the exchange rate indicates that the Rand appreciated against the US Dollar, averaging 19 in June, 16 last month, and 16 two months prior. This contributed to fluctuations in basic fuel prices.
+  • In general, crude oil price decreased by 38.47% during the period under review compared to May 2023. The average oil price for June 2023 was $ 70.3 compared to $ 71.55 in the previous month. As a net importer of oil, the May 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-05-31,COASTAL,"In essence, the fuel rates for the month of May increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 22.62 per litre.
+
+The fluctuations in unit over/under recovery are caused by economic factors, including:
+  • The consumer price inflation recorded was flation was 6.3% in May, down from 6.8% in April. The consumer price index increased by 0.2% month-on-month in May.
+  • Compared to the previous period, the Rand appreciated against the US Dollar during the review period, with an average exchange rate of 19 in May, 16 last month, and 15 two months prior. This influenced basic fuel price calculations.
+  • The standard crude oil price decreased by 34.86% during the period under review compared to April 2023. The average oil price for May 2023 was $ 71.55 compared to $ 79.28 in the previous month. As a net importer of oil, the April 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-05-31,GAUTENG,"In essence, the fuel rates for the month of May increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 37.00 cents, up to R 23.34 per litre.
+
+The fluctuations in unit over/under recovery are caused by economic factors, including:
+  • The consumer price inflation recorded was flation was 6.3% in May, down from 6.8% in April. The consumer price index increased by 0.2% month-on-month in May.
+  • Compared to the previous period, the Rand appreciated against the US Dollar during the review period, with an average exchange rate of 19 in May, 16 last month, and 15 two months prior. This influenced basic fuel price calculations.
+  • The standard crude oil price decreased by 34.86% during the period under review compared to April 2023. The average oil price for May 2023 was $ 71.55 compared to $ 79.28 in the previous month. As a net importer of oil, the April 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-04-30,COASTAL,"Taking everything into account, the fuel prices for the month of April decreased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to decreased by 5.00 cents, down to R 22.25 per litre.
+
+Various economic components influence the unit over/under recovery, including:
+  • Over the year, consumer price inflation reached flation was 6.8% in April, down from 7.1% in March. The consumer price index increased by 0.4% month-on-month in April.
+  • On average, the Rand appreciated against the US Dollar during the review period compared to the prior period. The exchange rate for April stood at 18, with 15 recorded last month and 15 two months ago, contributing to basic fuel price adjustments.
+  • The overall crude oil price decreased by 22.17% during the period under review compared to March 2023. The average oil price for April 2023 was $ 79.28 compared to $ 73.41 in the previous month. As a net importer of oil, the March 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-04-30,GAUTENG,"Taking everything into account, the fuel prices for the month of April increased in Petrol, while LPGAS, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 2.00 cents, up to R 22.97 per litre.
+
+Various economic components influence the unit over/under recovery, including:
+  • Over the year, consumer price inflation reached flation was 6.8% in April, down from 7.1% in March. The consumer price index increased by 0.4% month-on-month in April.
+  • On average, the Rand appreciated against the US Dollar during the review period compared to the prior period. The exchange rate for April stood at 18, with 15 recorded last month and 15 two months ago, contributing to basic fuel price adjustments.
+  • The overall crude oil price decreased by 22.17% during the period under review compared to March 2023. The average oil price for April 2023 was $ 79.28 compared to $ 73.41 in the previous month. As a net importer of oil, the March 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-03-31,GAUTENG,"In summary, the fuel costs for the month of March increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.27, up to R 22.95 per litre.
+
+The extent of unit over/under recovery is driven by economic factors such as:
+  • The inflation rate for consumers was flation was 7.1% in March, up from 7.0% in February. The consumer price index increased by 1.0% month-on-month in March.
+  • During the period under review, the Rand appreciated against the US Dollar, averaging 18 in March, compared to 15 in the previous month and 17 two months ago. This played a role in basic fuel price determination.
+  • Typically, crude oil price decreased by 32.56% during the period under review compared to February 2023. The average oil price for March 2023 was $ 73.41 compared to $ 76.73 in the previous month. As a net importer of oil, the February 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-03-31,COASTAL,"In summary, the fuel costs for the month of March increased in Petrol, LPGAS, diesel, Paraffin as per the table above. The Petrol (95 ULP) price is set to increased by R 1.27, up to R 22.3 per litre.
+
+The extent of unit over/under recovery is driven by economic factors such as:
+  • The inflation rate for consumers was flation was 7.1% in March, up from 7.0% in February. The consumer price index increased by 1.0% month-on-month in March.
+  • During the period under review, the Rand appreciated against the US Dollar, averaging 18 in March, compared to 15 in the previous month and 17 two months ago. This played a role in basic fuel price determination.
+  • Typically, crude oil price decreased by 32.56% during the period under review compared to February 2023. The average oil price for March 2023 was $ 73.41 compared to $ 76.73 in the previous month. As a net importer of oil, the February 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-02-28,COASTAL,"Comprehensively, the fuel prices for the month of February increased in Petrol, diesel, Paraffin, while LPGAS, diesel prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 28.00 cents, up to R 21.03 per litre.
+
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • Consumer price inflation on an annual basis was flation was 7.0% in February, up from 6.9% in January. The consumer price index increased by 0.7% month-on-month in February.
+  • Over the review period, the Rand appreciated against the US Dollar on average when compared to the prior period. The exchange rate for February stood at 18, with 15 recorded in the previous month and 17 two months earlier, influencing basic fuel prices.
+  • Crude oil price, on average decreased by 16.58% during the period under review compared to January 2023. The average oil price for February 2023 was $ 76.73 compared to $ 78.34 in the previous month. As a net importer of oil, the January 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-02-28,GAUTENG,"Comprehensively, the fuel prices for the month of February increased in Petrol, diesel, Paraffin, while LPGAS, diesel prices decreased as per the table above. The Petrol (95 ULP) price is set to increased by 28.00 cents, up to R 21.68 per litre.
+
+The factors impacting the unit over/under recovery from an economic standpoint include:
+  • Consumer price inflation on an annual basis was flation was 7.0% in February, up from 6.9% in January. The consumer price index increased by 0.7% month-on-month in February.
+  • Over the review period, the Rand appreciated against the US Dollar on average when compared to the prior period. The exchange rate for February stood at 18, with 15 recorded in the previous month and 17 two months earlier, influencing basic fuel prices.
+  • Crude oil price, on average decreased by 16.58% during the period under review compared to January 2023. The average oil price for February 2023 was $ 76.73 compared to $ 78.34 in the previous month. As a net importer of oil, the January 2023 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-01-31,GAUTENG,"In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 2.06, down to R 21.4 per litre.
+
+The unit over/under recovery is influenced by various economic factors, including:
+  • The yearly consumer price inflation stood at flation was 6.9% in January, down from 7.2% in December 2022. The consumer price index decreased by 0.1% month-on-month in January.
+  • The Rand depreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 17, compared to None last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price decreased by 5.33% during the period under review compared to December 2022. The average oil price for January 2023 was $ 78.34 compared to $ 76.63 in the previous month. As a net importer of oil, the December 2022 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
+"
+2023-01-31,COASTAL,"In general, the fuel rates for the month of January increased in LPGAS, while Petrol, diesel, Paraffin prices decreased as per the table above. The Petrol (95 ULP) price is set to decreased by R 2.06, down to R 20.75 per litre.
+
+The unit over/under recovery is influenced by various economic factors, including:
+  • The yearly consumer price inflation stood at flation was 6.9% in January, down from 7.2% in December 2022. The consumer price index decreased by 0.1% month-on-month in January.
+  • The Rand depreciated against the US Dollar on average during the period under review compared to the previous period. The average exchange rate for January was 17, compared to None last month and 17 two months ago. This impacted the contribution to basic fuel prices.
+  • The average crude oil price decreased by 5.33% during the period under review compared to December 2022. The average oil price for January 2023 was $ 78.34 compared to $ 76.63 in the previous month. As a net importer of oil, the December 2022 decreased in crude oil prices has led to a lower demand for USD and potentially contributed to the current basic fuel prices adjustment.
 "
